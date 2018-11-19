@@ -17,5 +17,4 @@ Building a desktop chat with Electron, React desktop and Pusher Chatkit.
 
 #### Built With
 
-- [Pusher Channels](https://pusher.com/chatkit) - APIs to enable devs building realtime features.
-
+- [Pusher Chatkit](https://pusher.com/chatkit) - Build the in-app messaging experiences that matter to your business.
