@@ -1,6 +1,6 @@
 ## Desktop chat app with React and Electron
 
-Buildimg a desktop chat with Electron, React desktop.
+Building a desktop chat with Electron, React desktop and Pusher Chatkit.
 
 #### Prerequisites
 
