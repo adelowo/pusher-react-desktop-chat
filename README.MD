@@ -12,6 +12,7 @@ Building a desktop chat with Electron, React desktop and Pusher Chatkit.
   git@github.com:adelowo/pusher-react-desktop-chat.git`
 
 - `cd pusher-react-desktop-chat` and `npm install`
+- Update the placeholders with your actual Pusher Chatkit credentials. You will want to take a look at `server.js` and `src/Chat.js`
 - In a terminal window, run `node server.js`
 - In another terminal window, run `npm run dev`
 
