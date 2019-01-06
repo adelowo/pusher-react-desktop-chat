@@ -13,11 +13,10 @@ class Chat extends Component {
 
   componentDidMount() {
     const chatkit = new ChatManager({
-      instanceLocator: 'v1:us1:113e5a5c-700b-4ce3-bbc6-5f0a54aa8ddb',
+      instanceLocator: 'PUSHER_INSTANCE_LOCATOR',
       userId: this.props.currentId,
       tokenProvider: new TokenProvider({
-        url:
-          'https://us1.pusherplatform.io/services/chatkit_token_provider/v1/113e5a5c-700b-4ce3-bbc6-5f0a54aa8ddb/token',
+        url: 'PUSHER_TOKEN_URL',
       }),
     });
 
